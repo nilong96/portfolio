@@ -11,7 +11,7 @@ All the things that is related to data visualizations! I taken Data Analytics as
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
-Class Demo- Tableau (NewsDemo24)
+Class Demo- Tableau [NewsDemo24](NewsDemo24)
 
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
