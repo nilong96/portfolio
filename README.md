@@ -11,6 +11,8 @@ All the things that is related to data visualizations! I taken Data Analytics as
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
+Class Demo- Tableau (NewsDemo24)
+
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
