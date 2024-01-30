@@ -1,6 +1,8 @@
 | [home page](https://nilong96.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing Government Debt
+
+## Bar Chart
 <iframe src="https://data.oecd.org/chart/7kmy" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kmy" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 The data visualization above was obtained from the OCED website. The bar chart above shows different countries' general government debt-to-GDP ratio. I specifically choose the year of 2020 since it is the year of Covid. As shown above, we can see that the average debt-to-GDP ratio for 2020 is 93%. 
