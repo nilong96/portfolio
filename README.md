@@ -16,8 +16,9 @@ Class Demo- Tableau [NewsDemo24](NewsDemo24)
 
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
-This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This section show different type of data visualization on how to visualize government debt. Please click the link above for more information.  
 
-## Assignment 3&4:
+## Assignment 3&4: [Critique by Design](critique-by-design)
+I have chosen the 'What is the World's biggest cash crop?' as my redesign data visualization. The link above contain more information about the data viz.
 
 ## Final project
