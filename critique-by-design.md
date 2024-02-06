@@ -5,5 +5,5 @@
 The data visualization that I decided to perform my critique and redesign is "What is the World's Biggest cash crop?". 
 ![first viz](photo1.png)
 ![second viz](photo2.png)
-> Photo by <[a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a](https://davidmccandless.com/)> on <[a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"](https://informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/)https://informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/>Information is Beautiful</a>
+> Photo by <a href="https://davidmccandless.com/>davidmccandless</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
