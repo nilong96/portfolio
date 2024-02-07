@@ -72,6 +72,7 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 After reviewing the feedback, I decided to make some changes on my visualization. I have added additional information inside the treemap such as the area harvested and value per area harvested. Additionally, I agree with the feedback that the color and size is my sketch represents the same value, which is not necessary. And so, I decided to create grouping on the corps and used color to differentiate them. The corps has three main categories, which is Food Corps, Cash Corps and Vegetables. The difference between Food Corps and Cash Corps is that food corps is harvested for food while cash corps is grown primarily for commercial sale that is not related to essential human life sustainbility.
 
 
