@@ -17,7 +17,7 @@ For my final project, the topic that I will be discussing is the issue of studen
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 [sketch1](sketch1.png)
-[sketch2](sketch 2.png)
+[sketch2](sketch2.png)
 [sketch3](sketch3.png)
 
 # The data
