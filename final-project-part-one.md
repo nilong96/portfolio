@@ -33,7 +33,10 @@ For my final project, the topic that I will be discussing is the issue of studen
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-I will be utilizing several data for my final project. Two of my data was obtain from the datacommons, and the origins of the data in datacommons comes from census.gov. Other than data commons and census.gov, I also find several data from Kaggle and Tableau Public Datasources. By utilizing these data, I want to provide several perspective of how student loan is connected to university admission and financial aid. I will first use a broader spectrum of the data such as the amount of Student Loan and population of undergrad student as an introduction. In the middle of the story, I will funnel it down to one specific college, which is Yale University.
+I will be utilizing several data for my final project. Two of my data was obtain from the datacommons, and the origins of the data in datacommons comes from census.gov. Other than data commons and census.gov, I also find several data from Kaggle and Tableau Public Datasources. 
+
+
+By utilizing these data, I want to provide several perspective of how student loan is connected to university admission and financial aid. I will first use a broader spectrum of the data such as the amount of Student Loan and population of undergrad student as an introduction. Then, I want to show the percentage of how many student is eligible and received Federal Pell Grant, and how many percentage of student needs to take student loan. In the middle of the story, I will funnel it down to one specific college, which is Yale University. I will focus on the admission history, tuition history and financial aid history of Yale University, and provide a more specific analyst.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a data source that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
