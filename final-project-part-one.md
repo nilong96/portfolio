@@ -17,7 +17,17 @@ For my final project, the topic that I will be discussing is the issue of studen
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 ![sketch1](sketch1.png)
+
+
+**The bar graph above is a raw sketch that shows the amount of undergrad student in different US states.**
+
+
 ![sketch2](sketch2.png)
+
+
+**The line chart above shows the continuous yearly of the student loan amount in United States.**
+
+
 ![sketch3](sketch3.png)
 
 # The data
