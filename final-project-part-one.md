@@ -21,9 +21,9 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-I will be utilizing several data for my final project. Two of my data was obtain from the datacommons, and the origins of the data from datacommons comes from census.gov. Other than data commons and census.gov, I also find several data from Kaggle and Tableau Public Datasources. I plan to utilize these data that I gather and provide several perspective of how student loan is connected to university admission and financial aid. I will first use a broader spectrum of the data, and funnel it down to specific college, which is Yale University.
+I will be utilizing several data for my final project. Two of my data was obtain from the datacommons, and the origins of the data in datacommons comes from census.gov. Other than data commons and census.gov, I also find several data from Kaggle and Tableau Public Datasources. By utilizing these data, I want to provide several perspective of how student loan is connected to university admission and financial aid. I will first use a broader spectrum of the data such as the amount of Student Loan and population of undergrad student as an introduction. In the middle of the story, I will funnel it down to one specific college, which is Yale University.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a data source that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
