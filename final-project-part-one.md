@@ -21,7 +21,7 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I will be utilizing several data for my final project. Two of my data was obtain from the datacommons, and the origins of the data from datacommons comes from census.gov. Other than data commons and census.gov, I also find several data from Kaggle and Tableau Public Datasources. I plan to utilize these data that I gather and provide several perspective of how student loan is connected to university admission and financial aid. I will first use a broader spectrum of the data, and funnel it down to specific college, which is Yale University.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -35,6 +35,4 @@ Text here...
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to review the data further and only using variables that is useful for my final project. Tableau and Canva will be my main tools for data visualization. Additionally, I plan to use shorthand as my medium for my storyboard and presentation. 
