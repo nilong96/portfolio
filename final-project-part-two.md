@@ -13,7 +13,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-The target audience that I hope to reach are current university student who have student loan debt, and also 
+The target audience that I hope to reach are current university student and working adults who have student loan debt. The content of my story arc is focus on student loan, and it should resonate with many individuals in United States who are struggling with their student loan debt. With the rising of university tuition expense, many students are forced to take student loan in order to cover their financial difficulties. With the information and call of action, I hope that it can provide more insight and assistance to those individuals who are struggling with their student loan. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -55,11 +55,6 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
