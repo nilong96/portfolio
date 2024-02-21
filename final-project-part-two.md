@@ -10,7 +10,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audience that I hope to reach are current university student who have student loan debt, and also 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
