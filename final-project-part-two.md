@@ -21,7 +21,6 @@ Interviewee 1: Female, working adults, early 30s, does not have student loan. Su
 
 Interviewee 2: Female, working adults, late 20s, do have student loans. has both federal and private student loan. 
 
-
 Interviewee 3: Female, working adults. early 40s, have student loans and currently has a child. 
 
 
