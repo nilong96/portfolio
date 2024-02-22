@@ -17,9 +17,9 @@ My approach to identifying representative individuals is by random sampling. I w
 
 The target audience that I hope to reach are current university student and working adults who have student loan debt. The content of my story arc is focus on student loan, and it should resonate with many individuals in United States who are struggling with their student loan debt. With the rising of university tuition expense, many students are forced to take student loan in order to cover their financial difficulties. With the information and call of action, I hope that it can provide more insight and assistance to those individuals who are struggling with their student loan. 
 
-Interviewee 1: Female, working adults, late 20s, does not have student loan. Surrounding friends has student loan.
+Interviewee 1: Female, working adults, early 30s, does not have student loan. Surrounding friends has student loan.
 Interviewee 2: Female, working adults, late 20s, do have student loans. has both federal and private student loan. 
-Interviewee 3: 
+Interviewee 3: Female, working adults. early 40s, have student loans and currently has a child. 
 
 
 ## Interview script
@@ -29,12 +29,10 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-| determine whether the data viz is confusing or not |  Did data visualizations present the data clear? is there any confusion?  |
+| determine whether the data viz is confusing or not |  Did data visualizations present the data clear? Is there anything you would want to change or do it differently? |
 | any information that is missing | Is there any information that you wish to know or have when applying student loan and repaying it?       |
 | make sure my story reach the intended audience   |   Who do you think the intended audience is?   |
 | make sure my story has a clear story arc | can you tell me what the data is telling you? |
-| recommendation on changing the data viz | Is there anything you would want to change or do it differently?|
-
 
 Text here!
 
@@ -45,11 +43,10 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Did data visualizations present the data clear? is there any confusion? | Graph 1 is easy to understand regarding tuition. Graph 2 is a bit confusing regarding x-axis since there is no label. changing the x-axis, making it all similar axis. Graph 3: making it less wordy on the bottom, and possibly do away with the grant aid.     |             |             |
+| Did data visualizations present the data clear? Is there anything you would want to change or do it differently | Graph 1 is easy to understand regarding the trend of the rising tuition expense. Graph 2 is slightly confusing regarding x-axis since there is no label. Additionally, it might be good to change the y-axis, making it all range. Graph 3: making it less wordy on the bottom, and possibly do away with the grant aid.   |             |             |
 | Is there any information that you wish to know or have when applying student loan and repaying it? | getting a tuition expense trend around all US. something along the line where having issue finding jobs after graduate, how to repay if it is hard to find a job that what you were studying. Is the college education worth the end of borrowing student loan?  |             |             |
 | Who do you think the intended audience is?   | potential college students, highschool seniors.         |             |             |
 | can you tell me what the data is telling you?   | showing the trends of increasing college expenses, and student need to take more student loan for their college expenses.       |      |         |
-|Is there anything you would want to change or do it differently? |  | | |
 
 
 # Identified changes for Part III
