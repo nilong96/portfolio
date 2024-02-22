@@ -18,7 +18,10 @@ My approach to identifying representative individuals is by random sampling. I w
 The target audience that I hope to reach are current university student and working adults who have student loan debt. The content of my story arc is focus on student loan, and it should resonate with many individuals in United States who are struggling with their student loan debt. With the rising of university tuition expense, many students are forced to take student loan in order to cover their financial difficulties. With the information and call of action, I hope that it can provide more insight and assistance to those individuals who are struggling with their student loan. 
 
 Interviewee 1: Female, working adults, early 30s, does not have student loan. Surrounding friends has student loan.
+
 Interviewee 2: Female, working adults, late 20s, do have student loans. has both federal and private student loan. 
+
+
 Interviewee 3: Female, working adults. early 40s, have student loans and currently has a child. 
 
 
