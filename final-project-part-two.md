@@ -69,7 +69,8 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-| my story is too broad and vague. It was difficult for my interviewee to grasp what i want to present about my topic  | need to create an outline and structure to correctly identify my story arc |     | the first graph has too much blank space | remove the blank space on the first visualization. need to pay more attention on the graph. Avoid too much blank space.|
+| my story is too broad and vague. It was difficult for my interviewee to grasp what i want to present about my topic  | need to create an outline and structure to correctly identify my story arc | 
+| the first graph has too much blank space | remove the blank space on the first visualization. need to pay more attention on the graph. Avoid too much blank space.|
 | Need to see the story from the view of the audience    | Arrange the graph in an order that is easy for audience to read  |
 | some variables might be not necessary. Remove variables that is not related and isolate important data. | removing the total grant aid for graph 3    |
 
