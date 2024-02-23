@@ -23,5 +23,7 @@ I have chosen the 'What is the World's biggest cash crop?' as my redesign data v
 
 ## Final project 
 [Final Project Part 1](final-project-part-one)
+
 [Final Project Part 2](final-project-part-two)
-I have created an initial outline and raw sketches for my Final Project. The link shows the raw draft of my final project, which is about student loan in United States.
+
+I have created an initial outline and raw sketches for my Final Project. The link above shows the raw draft of my final project, which is about student loan repayment issues in United States.
