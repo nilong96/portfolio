@@ -17,6 +17,8 @@
 
 **Resolution**: Using government services to put pressure on loan service provider regarding loan repayment issue.
 
+The outline of my story is regarding the student loan repayment issue. The setting of the story is about the student loan, and how student loan is increasing every single year. Other than the possibility of government forgiving the loan, all individuals who has student loans are required to repay their student loan. However, these individuals face issue when repaying their loans. One of their loan repayment issue is their loan service provider. The call of action/resolution is where we provide a resource to individual where they can contact the government department to resolve the loan service provider issue.
+
 
 # User research 
 
