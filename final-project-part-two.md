@@ -12,6 +12,7 @@
 
 ![mainpage](mainpage.png)
 ![intro](intro.png)
+![loan](loan.png)
 ![tuitionfees](tuition_fees.png)
 ![studentloan](Studentloan_Viz.png)
 ![studentaid](Percentage_of_Student_Aid.png)
