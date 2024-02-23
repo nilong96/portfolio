@@ -1,22 +1,22 @@
 | [home page](https://nilong96.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+
+
+![mainpage](mainpage.png)
+![intro](intro.png)
+![tuitionfees](tuition_fees.png)
+![studentloan](Studentloan_Viz.png)
+![studentaid](Percentage_of_Student_Aid.png)
+![loan](Loan.png)
+
+
 **Setting**: Explain the student loan debt history, the rise of tuition expense and student loan struggle.
 
 **Conflict**: Student loan is unavoidable since student borrow it in order to attend college. However, the real conflict is loan repayment issue with loan service provider.
 
 **Resolution**: Using government services to put pressure on loan service provider regarding loan repayment issue.
 
-
-
-
-![mainpage](mainpage.png)
-![intro](intro.png)
-![loan](Loan.png)
-![tuitionfees](tuition_fees.png)
-![studentloan](Studentloan_Viz.png)
-![studentaid](Percentage_of_Student_Aid.png)
-Text here!
 
 # User research 
 
