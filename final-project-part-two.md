@@ -2,7 +2,9 @@
 
 # Wireframes / storyboards
 Setting: Explain the student loan debt history, the rise of tuition expense and student loan struggle.
+
 Conflict: Student loan is unavoidable since student borrow it in order to attend college. However, the real conflict is loan repayment issue with loan service provider.
+
 Resolution: Using government services to put pressure on loan service provider regarding loan repayment issue.
 
 
