@@ -1,8 +1,15 @@
 | [home page](https://nilong96.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Setting: Explain the student loan debt history, the rise of tuition expense and student loan struggle.
+Conflict: Student loan is unavoidable since student borrow it in order to attend college. However, the real conflict is loan repayment issue with loan service provider.
+Resolution: Using government services to put pressure on loan service provider regarding loan repayment issue.
+
+
+
+
 ![mainpage](mainpage.png)
+![intro](intro.png)
 ![tuitionfees](tuition_fees.png)
 ![studentloan](Studentloan_Viz.png)
 ![studentaid](Percentage_of_Student_Aid.png)
@@ -54,17 +61,15 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| my story is too broad and vague. It was difficult for my interviewee to grasp what i want to present about my topic  | need to create an outline and structure to correctly identify my story arc |     | the first graph has too much blank space | remove the blank space on the first visualization. need to pay more attention on the graph. Avoid too much blank space.|
+| Need to see the story from the view of the audience    | Arrange the graph in an order that is easy for audience to read  |
+| some variables might be not necessary. Remove variables that is not related and isolate important data. | removing the total grant aid for graph 3    |
+
 
 > ...include any final thoughts you have here. 
 
-Text here!
+The interview findings help a lot with my project. I learn a lot from other's people perspective, and noticed that my story still has a lot of flaw. I thought that my story outline is completed, but I realized that my topic was too broad after interviewing my friends. It is important to obtain other's people opinion since their perspective and understanding might be different from what you thought. 
 
