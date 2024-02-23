@@ -21,5 +21,7 @@ This section show different type of data visualization on how to visualize gover
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 I have chosen the 'What is the World's biggest cash crop?' as my redesign data visualization. The link above contain more information about the data viz.
 
-## Final project: [Final Project Part 1](final-project-part-one)
+## Final project 
+[Final Project Part 1](final-project-part-one)
+[Final Project Part 2](final-project-part-two)
 I have created an initial outline and raw sketches for my Final Project. The link shows the raw draft of my final project, which is about student loan in United States.
