@@ -22,7 +22,7 @@ This section show different type of data visualization on how to visualize gover
 I have chosen the 'What is the World's biggest cash crop?' as my redesign data visualization. The link above contain more information about the data viz.
 
 ## Final project 
-[Final Project Part 1](final-project-part-one) : 
+[Final Project Part 1](final-project-part-one) 
 
 [Final Project Part 2](final-project-part-two)
 
