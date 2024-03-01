@@ -3,7 +3,7 @@
 # The final data story
 [Final Project](https://carnegiemellon.shorthandstories.com/the-student-loan-struggle/index.html) 
 
-The link above is my completed project for Telling Stories with Data. The topic of my stories is regarding The issue of Student Loan in United States.
+The link above is my completed project for Telling Stories with Data. The topic of my story is regarding The issue of Student Loan in United States.
 
 # Changes made since Part II
 
