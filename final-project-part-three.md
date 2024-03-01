@@ -8,7 +8,7 @@ The link above is my completed project for Telling Stories with Data. The topic 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+After the completion of Part II, I reviewed all the interview notes and comment to finalize my story arc. I realized that my story arc was too vague after showing my work to my interviewee, and 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
