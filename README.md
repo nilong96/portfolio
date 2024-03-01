@@ -22,10 +22,10 @@ This section show different type of data visualization on how to visualize gover
 I have chosen the 'What is the World's biggest cash crop?' as my redesign data visualization. The link above contain more information about the data viz.
 
 ## Final project 
-[Final Project Part 1](final-project-part-one)
+[Final Project Part 1](final-project-part-one) : 
 
 [Final Project Part 2](final-project-part-two)
 
 [Final Project Part 3](final-project-part-three)
 
-I have created an initial outline and raw sketches for my Final Project. The link above shows the raw draft of my final project, which is about student loan repayment issues in United States.
+
