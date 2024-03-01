@@ -9,7 +9,7 @@ All the things that is related to data visualizations! I have taken Data Analyti
 
 # Portfolio
 
-# Examples
+## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 Class Demo- Tableau [NewsDemo24](NewsDemo24)
