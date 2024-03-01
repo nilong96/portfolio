@@ -23,10 +23,10 @@ Regarding my design decision, I decide to make it more data viz focus rather tha
 
 ## References
 
-Reference information is available in my Shorthand published data story website. 
+Reference information is available in my Shorthand datastory. 
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+
 
 I believe my final data story went well. I showed my final data story to two of my interviewee and they provided positive feedback on the story arc and data visualizations. One of the interviewee also provided a small feedback on the legend of the visualization, which is super useful since I did not notice the issues. I was nervous if my data visualizations fit my story arc, and whether my idea was correctly presented to the audience. 
