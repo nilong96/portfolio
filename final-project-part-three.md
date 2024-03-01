@@ -1,9 +1,9 @@
 | [home page](https://nilong96.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Final Project](https://carnegiemellon.shorthandstories.com/the-student-loan-struggle/index.html) 
 
-Text here!
+The link above is my completed project for Telling Stories with Data. The topic of my stories is regarding The issue of Student Loan in United States.
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
